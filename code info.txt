@@ -1,0 +1,42 @@
+days =4000
+ 
+random -> 10% -> 400
+{
+
+baare minimum
+
+}
+after->{
+
+15-> some amount;
+
+
+}
+count 0;
+
+if(num > 0 && days< 400){-> 0.1
+
+count0++;
+if(4){
+case  0;
+count0 = 0;
+}
+
+}else if(num > 0 && days<25% ){
+case num; - > .25
+ }else if(num > 0 && days<45% ){ -> .40
+if(count== 2){
+case num;
+}
+
+
+count =0 ;
+ }else if(num > 0 && days< 65% ){ -> .65
+
+if(count== 2){
+case num;
+}
+
+
+count =0 ;
+ }
